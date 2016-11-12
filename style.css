@@ -129,6 +129,7 @@ nav li a:hover {
 h3 {
 margin-top: 60px;
 text-align: center;
+text-shadow: 1px 2px grey;
 }
 
 .picture_text {
@@ -169,6 +170,17 @@ img {
   text-align: center;
   width: 600px;
   background-color: white;
+
+}
+
+z {
+color: blue;
+font-style:italic;
+
+  }
+logodesign {
+  color: white;
+     text-shadow: 2px 2px 4px #000000;
 
 }
 
