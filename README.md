@@ -5,4 +5,5 @@ This website contains several pages. In them are:
 *A dynamic photo slider.
 *A Video.
 *All pages have the same look and feel for the user.
-And the usual websites tab: About Us, etcetera. We had fun creating this project.
+*And the usual websites tab: About Us, etcetera. We had fun creating this project.
+![](https://github.com/AlfeCorona/YGSAv2/blob/master/images/screenshot2.jpg)
